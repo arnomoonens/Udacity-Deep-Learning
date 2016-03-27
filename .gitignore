@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+.DS_STORE
+*.pickle
+notMNIST_large*
+notMNIST_small*
+*.zip
